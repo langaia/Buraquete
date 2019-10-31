@@ -1,0 +1,654 @@
+id,nivel0,nivel1,nivel2
+66,Bebidas,Bebidas,Bebidas Alcoólicas
+87,Bebidas,Bebidas,Bebidas Não-Alcoólicas
+65,Bebidas,Bebidas,Bebidas
+86,Bebidas,Bebidas Alcoólicas,Whisky
+74,Bebidas,Bebidas Alcoólicas,Espumante
+71,Bebidas,Bebidas Alcoólicas,Champagne
+76,Bebidas,Bebidas Alcoólicas,Ice
+68,Bebidas,Bebidas Alcoólicas,Cachaça
+721,Bebidas,Bebidas Alcoólicas,Vermute
+70,Bebidas,Bebidas Alcoólicas,Cerveja
+77,Bebidas,Bebidas Alcoólicas,Licor
+75,Bebidas,Bebidas Alcoólicas,Gin
+69,Bebidas,Bebidas Alcoólicas,Catuaba
+81,Bebidas,Bebidas Alcoólicas,Saquê
+83,Bebidas,Bebidas Alcoólicas,Tequila
+82,Bebidas,Bebidas Alcoólicas,Steinhaeger
+84,Bebidas,Bebidas Alcoólicas,Vinho
+80,Bebidas,Bebidas Alcoólicas,Rum
+720,Bebidas,Bebidas Alcoólicas,Cerveja Artesanal
+73,Bebidas,Bebidas Alcoólicas,Coquetel
+85,Bebidas,Bebidas Alcoólicas,Vodka
+67,Bebidas,Bebidas Alcoólicas,Aperitivo
+79,Bebidas,Bebidas Alcoólicas,Pisco
+72,Bebidas,Bebidas Alcoólicas,Conhaque
+94,Bebidas,Bebidas Não-Alcoólicas,Isotônicos e Hidrotônicos
+96,Bebidas,Bebidas Não-Alcoólicas,"Suco, Néctar e Refresco"
+722,Bebidas,Bebidas Não-Alcoólicas,Bebidas a Base de Soja
+89,Bebidas,Bebidas Não-Alcoólicas,Água Mineral
+95,Bebidas,Bebidas Não-Alcoólicas,Refrigerantes
+91,Bebidas,Bebidas Não-Alcoólicas,Chás Prontos
+92,Bebidas,Bebidas Não-Alcoólicas,Energético
+97,Bebidas,Bebidas Não-Alcoólicas,Sucos Em Pó
+88,Bebidas,Bebidas Não-Alcoólicas,Água de Coco
+90,Bebidas,Bebidas Não-Alcoólicas,Água Tônica
+93,Bebidas,Bebidas Não-Alcoólicas,Groselha
+98,Bebidas,Bebidas Não-Alcoólicas,Xarope e Purê de Frutas
+661,"Carnes, Aves e Peixes",Aves,Sassami de Frango
+663,"Carnes, Aves e Peixes",Aves,Frango Inteiro
+665,"Carnes, Aves e Peixes",Aves,Sobrecoxa de Frango
+664,"Carnes, Aves e Peixes",Aves,Peito de Frango
+657,"Carnes, Aves e Peixes",Aves,Asa de Frango
+659,"Carnes, Aves e Peixes",Aves,Coxa e Sobrecoxa de Frango
+660,"Carnes, Aves e Peixes",Aves,Filé de Peito
+741,"Carnes, Aves e Peixes",Aves,"Asa, Tulipa e Coxinha de Frango"
+658,"Carnes, Aves e Peixes",Aves,Coração de Frango
+662,"Carnes, Aves e Peixes",Aves,Frango a Passarinho
+666,"Carnes, Aves e Peixes",Carne Bovina,Acém
+676,"Carnes, Aves e Peixes",Carne Bovina,Músculo
+669,"Carnes, Aves e Peixes",Carne Bovina,Contra Filé
+674,"Carnes, Aves e Peixes",Carne Bovina,Filé Mignon
+667,"Carnes, Aves e Peixes",Carne Bovina,Alcatra
+668,"Carnes, Aves e Peixes",Carne Bovina,Carne Moída
+675,"Carnes, Aves e Peixes",Carne Bovina,Lagarto
+671,"Carnes, Aves e Peixes",Carne Bovina,Coxão Duro
+724,"Carnes, Aves e Peixes",Carne Bovina,Cupim
+673,"Carnes, Aves e Peixes",Carne Bovina,Picanha
+670,"Carnes, Aves e Peixes",Carne Bovina,Costela
+677,"Carnes, Aves e Peixes",Carne Bovina,Patinho
+672,"Carnes, Aves e Peixes",Carne Bovina,Coxão Mole
+652,"Carnes, Aves e Peixes","Carnes, Aves e Peixes",Carne Bovina
+378,"Carnes, Aves e Peixes","Carnes, Aves e Peixes","Carnes, Aves e Peixes"
+655,"Carnes, Aves e Peixes","Carnes, Aves e Peixes",Linguiças e Salsichas
+651,"Carnes, Aves e Peixes","Carnes, Aves e Peixes",Aves
+653,"Carnes, Aves e Peixes","Carnes, Aves e Peixes",Carne Suína
+654,"Carnes, Aves e Peixes","Carnes, Aves e Peixes",Peixes e Frutos do Mar
+656,"Carnes, Aves e Peixes","Carnes, Aves e Peixes","Secas, Salgadas e Defumadas"
+683,"Carnes, Aves e Peixes",Carne Suína,Pernil
+681,"Carnes, Aves e Peixes",Carne Suína,Filé Mignon Suíno
+679,"Carnes, Aves e Peixes",Carne Suína,Copa Lombo
+678,"Carnes, Aves e Peixes",Carne Suína,Bisteca
+680,"Carnes, Aves e Peixes",Carne Suína,Costela
+682,"Carnes, Aves e Peixes",Carne Suína,Lombo
+703,"Carnes, Aves e Peixes",Linguiças e Salsichas,Linguiças
+704,"Carnes, Aves e Peixes",Linguiças e Salsichas,Salsichas
+697,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Polvo
+699,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Salmão
+696,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Pescada
+694,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Patas de Caranguejo
+687,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Camarão
+700,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Sardinha
+684,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Abadejo
+701,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Tilápia
+691,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Lula
+692,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Mexilhão
+702,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Truta
+685,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Atum
+698,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Porquinho
+686,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Bacalhau
+689,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Iscas de Peixe
+690,"Carnes, Aves e Peixes",Peixes e Frutos do Mar,Kani
+737,"Carnes, Aves e Peixes","Secas, Salgadas e Defumadas",Carne Seca
+736,"Carnes, Aves e Peixes","Secas, Salgadas e Defumadas",Bacon
+632,Cestas Alimentícias,Cestas Alimentícias,Cestas Alimentícias
+634,Cestas Alimentícias,Cestas Alimentícias,Cestas de Natal
+633,Cestas Alimentícias,Cestas Alimentícias,Cestas Básicas
+140,Congelados,Congelados,Pão de Queijo
+135,Congelados,Congelados,Açaí
+144,Congelados,Congelados,Sorvetes
+138,Congelados,Congelados,Hambúrguer
+137,Congelados,Congelados,Empanados
+735,Congelados,Congelados,Mandioca
+734,Congelados,Congelados,Polenta
+146,Congelados,Congelados,Tortas Doces e Salgadas
+139,Congelados,Congelados,Legumes e Vegetais
+143,Congelados,Congelados,Sobremesas
+142,Congelados,Congelados,Salgados
+141,Congelados,Congelados,Pizzas
+145,Congelados,Congelados,Polpas e Frutas
+136,Congelados,Congelados,Batatas
+52,Congelados,Congelados,Congelados
+475,Embalagens e Descartáveis,Caixas,Caixa Térmica
+474,Embalagens e Descartáveis,Caixas,Caixa de Isopor
+473,Embalagens e Descartáveis,Caixas,Caixa Coletora
+482,Embalagens e Descartáveis,Embalagens,Embalagem Cristal
+483,Embalagens e Descartáveis,Embalagens,Embalagem para Frango
+485,Embalagens e Descartáveis,Embalagens,Embalagem para Pipoca
+487,Embalagens e Descartáveis,Embalagens,Embalagem Térmica
+486,Embalagens e Descartáveis,Embalagens,Embalagem para Pizza
+484,Embalagens e Descartáveis,Embalagens,Embalagem para Hambúrguer
+480,Embalagens e Descartáveis,Embalagens e Descartáveis,Copos Descartáveis
+719,Embalagens e Descartáveis,Embalagens e Descartáveis,Canudos Descartáveis
+733,Embalagens e Descartáveis,Embalagens e Descartáveis,Potes e Tampas Descartáveis
+496,Embalagens e Descartáveis,Embalagens e Descartáveis,Sacos e Sacolas
+518,Embalagens e Descartáveis,Embalagens e Descartáveis,Touca Descartável
+520,Embalagens e Descartáveis,Embalagens e Descartáveis,Kit Festa
+488,Embalagens e Descartáveis,Embalagens e Descartáveis,Espetos
+18,Embalagens e Descartáveis,Embalagens e Descartáveis,Embalagens e Descartáveis
+481,Embalagens e Descartáveis,Embalagens e Descartáveis,Embalagens
+492,Embalagens e Descartáveis,Embalagens e Descartáveis,Luvas
+524,Embalagens e Descartáveis,Embalagens e Descartáveis,Outras Embalagens
+503,Embalagens e Descartáveis,Embalagens e Descartáveis,Talheres Descartáveis
+463,Embalagens e Descartáveis,Embalagens e Descartáveis,Marmitas e Bandejas
+476,Embalagens e Descartáveis,Embalagens e Descartáveis,Palitos
+718,Embalagens e Descartáveis,Embalagens e Descartáveis,Filme de PVC
+472,Embalagens e Descartáveis,Embalagens e Descartáveis,Caixas
+517,Embalagens e Descartáveis,Embalagens e Descartáveis,Prato Descartável
+507,Embalagens e Descartáveis,Embalagens e Descartáveis,Papel Descartável
+519,Embalagens e Descartáveis,Embalagens e Descartáveis,Mochila para Motoboy
+709,Embalagens e Descartáveis,Embalagens e Descartáveis,Máscaras
+490,Embalagens e Descartáveis,Espetos,Espeto de Metal
+489,Embalagens e Descartáveis,Espetos,Espeto de Bambu
+491,Embalagens e Descartáveis,Espetos,Espeto de Plástico
+523,Embalagens e Descartáveis,Kit Festa,Kit Prato e Garfo
+521,Embalagens e Descartáveis,Kit Festa,Kit Garfo e Faca
+522,Embalagens e Descartáveis,Kit Festa,"Kit Prato, Garfo e Faca"
+494,Embalagens e Descartáveis,Luvas,Luvas Descartáveis
+495,Embalagens e Descartáveis,Luvas,Luvas Multiuso
+464,Embalagens e Descartáveis,Marmitas e Bandejas,Bandeja Cristal
+468,Embalagens e Descartáveis,Marmitas e Bandejas,Bandeja de Papelão
+470,Embalagens e Descartáveis,Marmitas e Bandejas,Marmitex de Alumínio
+469,Embalagens e Descartáveis,Marmitas e Bandejas,Bandeja Laminada
+731,Embalagens e Descartáveis,Marmitas e Bandejas,Marmitex de Plástico
+471,Embalagens e Descartáveis,Marmitas e Bandejas,Marmitex de Isopor
+465,Embalagens e Descartáveis,Marmitas e Bandejas,Bandeja de Alumínio
+466,Embalagens e Descartáveis,Marmitas e Bandejas,Bandeja de Isopor
+467,Embalagens e Descartáveis,Marmitas e Bandejas,Bandeja de Papel
+477,Embalagens e Descartáveis,Palitos,Palito de Dente
+478,Embalagens e Descartáveis,Palitos,Palito de Enfeite
+479,Embalagens e Descartáveis,Palitos,Palito de Sorvete
+509,Embalagens e Descartáveis,Papel Descartável,Papel Acoplado
+516,Embalagens e Descartáveis,Papel Descartável,Papel Toalha
+515,Embalagens e Descartáveis,Papel Descartável,Papel Manteiga
+511,Embalagens e Descartáveis,Papel Descartável,Papel Bandeja
+514,Embalagens e Descartáveis,Papel Descartável,Papel Embrulho
+508,Embalagens e Descartáveis,Papel Descartável,Guardanapo de papel
+510,Embalagens e Descartáveis,Papel Descartável,Papel Alumínio
+512,Embalagens e Descartáveis,Papel Descartável,Papel Celofane
+513,Embalagens e Descartáveis,Papel Descartável,Papel de Prensar
+502,Embalagens e Descartáveis,Sacos e Sacolas,Sacolas
+498,Embalagens e Descartáveis,Sacos e Sacolas,Sacos de Papel
+499,Embalagens e Descartáveis,Sacos e Sacolas,Sacos de Polipropileno
+497,Embalagens e Descartáveis,Sacos e Sacolas,Sacos de Lixo
+500,Embalagens e Descartáveis,Sacos e Sacolas,Sacos Multiuso
+501,Embalagens e Descartáveis,Sacos e Sacolas,Sacos Plástico
+505,Embalagens e Descartáveis,Talheres Descartáveis,Garfo Descartável
+506,Embalagens e Descartáveis,Talheres Descartáveis,Faca Descartável
+504,Embalagens e Descartáveis,Talheres Descartáveis,Colher Descartável
+46,Equipamentos e Utensílios,Equipamentos e Utensílios,Equipamentos e Utensílios
+425,Equipamentos e Utensílios,Equipamentos e Utensílios,Utensílios para Cozinha
+462,Equipamentos e Utensílios,Equipamentos e Utensílios,Equipamentos
+420,Equipamentos e Utensílios,Equipamentos e Utensílios,Utensílios para Bar
+455,Equipamentos e Utensílios,Equipamentos e Utensílios,Utensílios de Banheiro
+442,Equipamentos e Utensílios,Equipamentos e Utensílios,Utensílios Domésticos
+456,Equipamentos e Utensílios,Utensílios de Banheiro,Assento Sanitário
+461,Equipamentos e Utensílios,Utensílios de Banheiro,Dispenser de Papel Toalha
+459,Equipamentos e Utensílios,Utensílios de Banheiro,Dispenser de Álcool Gel e Sabonete
+460,Equipamentos e Utensílios,Utensílios de Banheiro,Dispenser de Papel Higiênico
+457,Equipamentos e Utensílios,Utensílios de Banheiro,Tela para Mictório
+458,Equipamentos e Utensílios,Utensílios de Banheiro,Desentupidor de Vaso Sanitário
+449,Equipamentos e Utensílios,Utensílios Domésticos,Organizadores
+454,Equipamentos e Utensílios,Utensílios Domésticos,Vassoura e Rodos
+451,Equipamentos e Utensílios,Utensílios Domésticos,Pá para Lixo
+446,Equipamentos e Utensílios,Utensílios Domésticos,Escada
+448,Equipamentos e Utensílios,Utensílios Domésticos,Lixeira
+447,Equipamentos e Utensílios,Utensílios Domésticos,Esfregões
+445,Equipamentos e Utensílios,Utensílios Domésticos,Enceradeira
+443,Equipamentos e Utensílios,Utensílios Domésticos,Baldes
+444,Equipamentos e Utensílios,Utensílios Domésticos,Cesto de Lixo
+452,Equipamentos e Utensílios,Utensílios Domésticos,Panos e Toalhas de Limpeza
+450,Equipamentos e Utensílios,Utensílios Domésticos,Pá
+422,Equipamentos e Utensílios,Utensílios para Bar,Decanter
+424,Equipamentos e Utensílios,Utensílios para Bar,Taças
+421,Equipamentos e Utensílios,Utensílios para Bar,Balde de Gelo
+423,Equipamentos e Utensílios,Utensílios para Bar,Saca Rolhas
+435,Equipamentos e Utensílios,Utensílios para Cozinha,Formas
+429,Equipamentos e Utensílios,Utensílios para Cozinha,Coador e Filtro de Café
+439,Equipamentos e Utensílios,Utensílios para Cozinha,Porta Canudo e Guardanapo
+431,Equipamentos e Utensílios,Utensílios para Cozinha,Cartucho de Filtro
+428,Equipamentos e Utensílios,Utensílios para Cozinha,Bebedouro
+433,Equipamentos e Utensílios,Utensílios para Cozinha,Coletor e Dispenser de Copos
+430,Equipamentos e Utensílios,Utensílios para Cozinha,Copos
+437,Equipamentos e Utensílios,Utensílios para Cozinha,Jarras e Garrafas
+426,Equipamentos e Utensílios,Utensílios para Cozinha,Acessórios
+427,Equipamentos e Utensílios,Utensílios para Cozinha,Assadeiras
+440,Equipamentos e Utensílios,Utensílios para Cozinha,Pratos e Talheres
+436,Equipamentos e Utensílios,Utensílios para Cozinha,Garrafas Térmicas
+126,Frios e Laticínios,Frios e Embutidos,Outros Frios e Embutidos
+123,Frios e Laticínios,Frios e Embutidos,Salames
+125,Frios e Laticínios,Frios e Embutidos,Peito de Peru
+122,Frios e Laticínios,Frios e Embutidos,Mortadela
+124,Frios e Laticínios,Frios e Embutidos,Presuntos e Apresuntado
+99,Frios e Laticínios,Frios e Laticínios,Frios e Laticínios
+114,Frios e Laticínios,Frios e Laticínios,Margarinas e Manteigas
+121,Frios e Laticínios,Frios e Laticínios,Frios e Embutidos
+100,Frios e Laticínios,Frios e Laticínios,Queijos
+120,Frios e Laticínios,Frios e Laticínios,Massas Frescas
+134,Frios e Laticínios,Frios e Laticínios,Fondue
+115,Frios e Laticínios,Frios e Laticínios,Leites
+127,Frios e Laticínios,Frios e Laticínios,Lácteos
+128,Frios e Laticínios,Lácteos,Bebidas Lácteas
+130,Frios e Laticínios,Lácteos,Iogurte
+132,Frios e Laticínios,Lácteos,Requeijão
+131,Frios e Laticínios,Lácteos,Leite Fermentado
+129,Frios e Laticínios,Lácteos,Cream Cheese
+118,Frios e Laticínios,Leites,Leite Semidesnatado
+116,Frios e Laticínios,Leites,Leite Desnatado
+119,Frios e Laticínios,Leites,Leite em Pó
+117,Frios e Laticínios,Leites,Leite Integral
+101,Frios e Laticínios,Queijos,Queijo Brie
+106,Frios e Laticínios,Queijos,Queijo Gorgonzola
+113,Frios e Laticínios,Queijos,Queijo Ricota
+109,Frios e Laticínios,Queijos,Queijo Minas (Padrão)
+111,Frios e Laticínios,Queijos,Queijo Prato
+105,Frios e Laticínios,Queijos,Queijo Minas Frescal
+102,Frios e Laticínios,Queijos,Queijo Cheddar
+110,Frios e Laticínios,Queijos,Queijo Parmesão
+103,Frios e Laticínios,Queijos,Queijo Coalho
+107,Frios e Laticínios,Queijos,Queijo Gouda
+112,Frios e Laticínios,Queijos,Queijo Provolone
+104,Frios e Laticínios,Queijos,Queijo de Cabra
+108,Frios e Laticínios,Queijos,Queijo Mussarela
+257,Higiene Pessoal e Perfumaria,Barba,Aparelho de Barbear 
+732,Higiene Pessoal e Perfumaria,Barba,Loção Pós Barba
+258,Higiene Pessoal e Perfumaria,Barba,Cargas e Lâminas
+259,Higiene Pessoal e Perfumaria,Barba,"Cremes, Espumas e Gel"
+311,Higiene Pessoal e Perfumaria,Bebê,Colônia
+312,Higiene Pessoal e Perfumaria,Bebê,Condicionador
+317,Higiene Pessoal e Perfumaria,Bebê,Shampoo
+318,Higiene Pessoal e Perfumaria,Bebê,Talco
+314,Higiene Pessoal e Perfumaria,Bebê,Fraldas
+316,Higiene Pessoal e Perfumaria,Bebê,Sabonete
+315,Higiene Pessoal e Perfumaria,Bebê,Lenços Umedecidos
+264,Higiene Pessoal e Perfumaria,Cabelos,Cremes de Pentear e de Tratamento
+263,Higiene Pessoal e Perfumaria,Cabelos,Condicionadores
+266,Higiene Pessoal e Perfumaria,Cabelos,"Fixadores, Modeladores e Gel"
+261,Higiene Pessoal e Perfumaria,Cabelos,Alisamento Capilar
+268,Higiene Pessoal e Perfumaria,Cabelos,Shampoos
+269,Higiene Pessoal e Perfumaria,Cabelos,Tinturas e Colorações
+267,Higiene Pessoal e Perfumaria,Cabelos,Óleos e Reparadores Capilares
+262,Higiene Pessoal e Perfumaria,Cabelos,Ativadores de Cachos
+265,Higiene Pessoal e Perfumaria,Cabelos,Descolorantes
+270,Higiene Pessoal e Perfumaria,Cabelos,Tônicos e Vitaminas
+277,Higiene Pessoal e Perfumaria,Corpo,Hidratante Corporal
+281,Higiene Pessoal e Perfumaria,Corpo,Talcos
+279,Higiene Pessoal e Perfumaria,Corpo,Repelentes
+280,Higiene Pessoal e Perfumaria,Corpo,Sabonetes
+276,Higiene Pessoal e Perfumaria,Corpo,Desodorantes
+275,Higiene Pessoal e Perfumaria,Corpo,Depilação 
+273,Higiene Pessoal e Perfumaria,Corpo,Acessórios de Banho
+274,Higiene Pessoal e Perfumaria,Corpo,Colônias e Perfumes
+278,Higiene Pessoal e Perfumaria,Corpo,Óleos Corporais
+284,Higiene Pessoal e Perfumaria,Cuidados com o Sol,Protetores Solares
+283,Higiene Pessoal e Perfumaria,Cuidados com o Sol,Pós Sol
+286,Higiene Pessoal e Perfumaria,Geriátrico,Fraldas Geriátricas
+291,Higiene Pessoal e Perfumaria,Higiene Bucal,Fios e Fitas Dentais
+288,Higiene Pessoal e Perfumaria,Higiene Bucal,Antisépticos e Enxaguantes
+290,Higiene Pessoal e Perfumaria,Higiene Bucal,Escovas de Dente
+289,Higiene Pessoal e Perfumaria,Higiene Bucal,Creme e Gel Dental
+309,Higiene Pessoal e Perfumaria,Higiene Íntima,Sabonete Íntimo
+308,Higiene Pessoal e Perfumaria,Higiene Íntima,Absorventes
+260,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Cabelos
+292,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Mãos e Pés
+307,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Higiene Íntima
+310,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Bebê
+285,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Geriátrico
+256,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Barba
+255,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria
+272,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Corpo
+319,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Saúde
+287,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Higiene Bucal
+282,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Cuidados com o Sol
+301,Higiene Pessoal e Perfumaria,Higiene Pessoal e Perfumaria,Rosto e Maquiagem
+295,Higiene Pessoal e Perfumaria,Mãos e Pés,Amolecedor de Cutículas
+298,Higiene Pessoal e Perfumaria,Mãos e Pés,Cortador de Unha 
+300,Higiene Pessoal e Perfumaria,Mãos e Pés,Talcos
+299,Higiene Pessoal e Perfumaria,Mãos e Pés,Óleo e Secante de Esmalte
+294,Higiene Pessoal e Perfumaria,Mãos e Pés,Alicates de Unha e Cutícula
+293,Higiene Pessoal e Perfumaria,Mãos e Pés,Acetonas e Removedores
+296,Higiene Pessoal e Perfumaria,Mãos e Pés,Cremes para Mãos e Pés 
+297,Higiene Pessoal e Perfumaria,Mãos e Pés,Base e Esmalte de Unha
+305,Higiene Pessoal e Perfumaria,Rosto e Maquiagem,Hidratante Facial
+302,Higiene Pessoal e Perfumaria,Rosto e Maquiagem,Batons
+306,Higiene Pessoal e Perfumaria,Rosto e Maquiagem,Limpeza Facial
+303,Higiene Pessoal e Perfumaria,Rosto e Maquiagem,Bases
+304,Higiene Pessoal e Perfumaria,Rosto e Maquiagem,Máscara para Cílios
+321,Higiene Pessoal e Perfumaria,Saúde,Hastes Flexíveis
+323,Higiene Pessoal e Perfumaria,Saúde,Papel Higiênico
+723,Higiene Pessoal e Perfumaria,Saúde,Algodão
+324,Higiene Pessoal e Perfumaria,Saúde,Preservativos e Lubrificantes
+320,Higiene Pessoal e Perfumaria,Saúde,Curativos
+322,Higiene Pessoal e Perfumaria,Saúde,Lenços de Papel
+343,Hortifrúti,Frutas,Limão
+346,Hortifrúti,Frutas,Manga
+347,Hortifrúti,Frutas,Maracujá
+349,Hortifrúti,Frutas,Mexerica
+342,Hortifrúti,Frutas,Laranja
+341,Hortifrúti,Frutas,Banana
+339,Hortifrúti,Frutas,Abacate
+345,Hortifrúti,Frutas,Mamão
+348,Hortifrúti,Frutas,Melão
+344,Hortifrúti,Frutas,Maçã
+340,Hortifrúti,Frutas,Abacaxi
+350,Hortifrúti,Hortifrúti,Legumes
+374,Hortifrúti,Hortifrúti,Frutas Secas e Oleagionosas
+362,Hortifrúti,Hortifrúti,Temperos Frescos
+375,Hortifrúti,Hortifrúti,Ovos
+338,Hortifrúti,Hortifrúti,Frutas
+326,Hortifrúti,Hortifrúti,Verduras
+325,Hortifrúti,Hortifrúti,Hortifrúti
+355,Hortifrúti,Legumes,Beterraba
+351,Hortifrúti,Legumes,Abóbora
+357,Hortifrúti,Legumes,Cenoura
+359,Hortifrúti,Legumes,Inhame
+358,Hortifrúti,Legumes,Chuchu
+352,Hortifrúti,Legumes,Abobrinha
+353,Hortifrúti,Legumes,Batata
+354,Hortifrúti,Legumes,Beringela
+360,Hortifrúti,Legumes,Pepino
+361,Hortifrúti,Legumes,Tomate
+376,Hortifrúti,Ovos,Ovos de Galinha
+366,Hortifrúti,Temperos Frescos,Cebolinha
+370,Hortifrúti,Temperos Frescos,Hortelã
+365,Hortifrúti,Temperos Frescos,Cebola
+363,Hortifrúti,Temperos Frescos,Alecrim
+369,Hortifrúti,Temperos Frescos,Gengibre
+368,Hortifrúti,Temperos Frescos,Coentro
+372,Hortifrúti,Temperos Frescos,Manjericão e Manjerona
+364,Hortifrúti,Temperos Frescos,Alho
+367,Hortifrúti,Temperos Frescos,Cheiro Verde
+373,Hortifrúti,Temperos Frescos,Pimentas
+371,Hortifrúti,Temperos Frescos,Louro
+332,Hortifrúti,Verduras,Couve Flor
+334,Hortifrúti,Verduras,Espinafre
+329,Hortifrúti,Verduras,Alface
+328,Hortifrúti,Verduras,Agrião
+327,Hortifrúti,Verduras,Acelga
+333,Hortifrúti,Verduras,Escarola
+335,Hortifrúti,Verduras,Repolho
+331,Hortifrúti,Verduras,Brócolis
+336,Hortifrúti,Verduras,Rúcula
+330,Hortifrúti,Verduras,Alho Poró
+713,Mercearia,"Achocolatados, Chocolates e Cacau em Pó",Achocolatados em Pó
+714,Mercearia,"Achocolatados, Chocolates e Cacau em Pó",Chocolates em Pó
+715,Mercearia,"Achocolatados, Chocolates e Cacau em Pó",Cacau em Pó
+195,Mercearia,Açúcar e Adoçantes,Açúcar Refinado e Extra Fino
+191,Mercearia,Açúcar e Adoçantes,Açúcar Cristal e Demerara
+194,Mercearia,Açúcar e Adoçantes,Açúcar para Confeitar
+193,Mercearia,Açúcar e Adoçantes,Açúcar Mascavo
+196,Mercearia,Açúcar e Adoçantes,Adoçantes
+201,Mercearia,Alimento Infantil,Fórmulas
+199,Mercearia,Alimento Infantil,Cereais e Mingau
+161,Mercearia,Arroz,Arroz Parboilizado
+159,Mercearia,Arroz,Arroz Integral
+160,Mercearia,Arroz,Arroz Arbóreo e Carnaroli
+158,Mercearia,Arroz,Arroz Branco
+204,Mercearia,Aveias e Cereais,Aveias
+206,Mercearia,Aveias e Cereais,Barra de Cereais
+205,Mercearia,Aveias e Cereais,Granola
+207,Mercearia,Aveias e Cereais,Cereais Matinais
+644,Mercearia,"Biscoitos, Torradas e Salgadinhos",Biscoito Waffer
+643,Mercearia,"Biscoitos, Torradas e Salgadinhos",Biscoito Salgado
+642,Mercearia,"Biscoitos, Torradas e Salgadinhos",Biscoito Recheado
+727,Mercearia,"Biscoitos, Torradas e Salgadinhos",Biscoito Integral
+641,Mercearia,"Biscoitos, Torradas e Salgadinhos",Biscoito Doce
+743,Mercearia,"Biscoitos, Torradas e Salgadinhos",Amendoim
+646,Mercearia,"Biscoitos, Torradas e Salgadinhos",Pipocas
+649,Mercearia,"Biscoitos, Torradas e Salgadinhos",Salgadinhos e Snacks
+645,Mercearia,"Biscoitos, Torradas e Salgadinhos",Cookies
+650,Mercearia,"Biscoitos, Torradas e Salgadinhos",Torradas
+166,Mercearia,Café,Cappuccino
+165,Mercearia,Café,Cápsulas
+164,Mercearia,Café,Café Torrado e Moído
+163,Mercearia,Café,Café Solúvel
+725,Mercearia,Café,Café em Grãos
+154,Mercearia,Conservas e Enlatados,Palmito
+153,Mercearia,Conservas e Enlatados,Milho Verde
+150,Mercearia,Conservas e Enlatados,Cogumelos
+149,Mercearia,Conservas e Enlatados,Azeitonas
+152,Mercearia,Conservas e Enlatados,Ervilha
+156,Mercearia,Conservas e Enlatados,Peixes e Carnes em Conserva
+155,Mercearia,Conservas e Enlatados,Patês e Antepastos
+234,Mercearia,Doces e Sobremesas,Creme de Leite
+728,Mercearia,Doces e Sobremesas,Gelatinas
+238,Mercearia,Doces e Sobremesas,Coco Ralado
+236,Mercearia,Doces e Sobremesas,Frutas em Calda
+710,Mercearia,Doces e Sobremesas,Chantilly
+235,Mercearia,Doces e Sobremesas,Doces e Goiabadas
+237,Mercearia,Doces e Sobremesas,Leite Condensado
+705,Mercearia,Doces e Sobremesas,Chocolate em barra
+239,Mercearia,Doces e Sobremesas,Leite de Côco
+233,Mercearia,Doces e Sobremesas,Confeitos e Granulados
+706,Mercearia,Doces e Sobremesas,Coberturas e Recheios
+711,Mercearia,Doces e Sobremesas,Geléias
+712,Mercearia,Doces e Sobremesas,Pó para Preparo de Sobremesas
+739,Mercearia,Farinha,Fubá
+174,Mercearia,Farinha,Polvilho
+168,Mercearia,Farinha,Amido de Milho
+171,Mercearia,Farinha,Farinha de Trigo Integral
+172,Mercearia,Farinha,Farinha de Trigo Especial
+740,Mercearia,Farinha,Flocos para Purê de Batata
+170,Mercearia,Farinha,Farinha de Rosca
+717,Mercearia,Farinha,Farofa
+169,Mercearia,Farinha,Farinha de Milho e Mandioca
+175,Mercearia,Farinha,Tapioca
+738,Mercearia,Farinha,Farinha de Empanar
+173,Mercearia,Farinha,Farinho de Trigo Tradicional
+185,Mercearia,Feijão,Feijão Branco
+189,Mercearia,Feijão,Feijão Preto
+186,Mercearia,Feijão,Feijão Carioca
+742,Mercearia,Grãos e Sementes,Trigo para Kibe
+213,Mercearia,Massas e Molhos,Macarrão Caracol e Caracolinho
+215,Mercearia,Massas e Molhos,Macarrão Conchiglione
+231,Mercearia,Massas e Molhos,Molhos Diversos
+218,Mercearia,Massas e Molhos,Macarrão Gravata
+212,Mercearia,Massas e Molhos,Macarrão Cabelo de Anjo
+230,Mercearia,Massas e Molhos,"Molho, Extrato e Polpa de Tomate"
+716,Mercearia,Massas e Molhos,Tomate Pelado
+229,Mercearia,Massas e Molhos,Massa para Pizza
+222,Mercearia,Massas e Molhos,Macarrão Parafuso
+211,Mercearia,Massas e Molhos,Macarrão Ave Maria
+223,Mercearia,Massas e Molhos,Macarrão Penne
+224,Mercearia,Massas e Molhos,Macarrão Rigatoni
+214,Mercearia,Massas e Molhos,Macarrão Concha e Conchinha
+226,Mercearia,Massas e Molhos,Macarrão Instantâneo
+219,Mercearia,Massas e Molhos,Macarrão Linguini
+210,Mercearia,Massas e Molhos,Macarrão Argola e Argolinha
+227,Mercearia,Massas e Molhos,Massa para Lasanha
+225,Mercearia,Massas e Molhos,Macarrão Talharim
+220,Mercearia,Massas e Molhos,Macarrão Ninho
+221,Mercearia,Massas e Molhos,Macarrão Padre Nosso
+216,Mercearia,Massas e Molhos,Macarrão Espaguete
+217,Mercearia,Massas e Molhos,Macarrão Fettuccine
+190,Mercearia,Mercearia,Açúcar e Adoçantes
+240,Mercearia,Mercearia,Bomboniere
+177,Mercearia,Mercearia,Grãos e Sementes
+744,Mercearia,Mercearia,Mistura para Panificação e Confeitaria
+167,Mercearia,Mercearia,Farinha
+176,Mercearia,Mercearia,Fermento
+232,Mercearia,Mercearia,Doces e Sobremesas
+197,Mercearia,Mercearia,"Achocolatados, Chocolates e Cacau em Pó"
+157,Mercearia,Mercearia,Arroz
+242,Mercearia,Mercearia,Temperos e Condimentos
+208,Mercearia,Mercearia,Chás
+162,Mercearia,Mercearia,Café
+241,Mercearia,Mercearia,Sopas e cremes
+203,Mercearia,Mercearia,Aveias e Cereais
+202,Mercearia,Mercearia,"Biscoitos, Torradas e Salgadinhos"
+147,Mercearia,Mercearia,Mercearia
+148,Mercearia,Mercearia,Conservas e Enlatados
+209,Mercearia,Mercearia,Massas e Molhos
+178,Mercearia,Mercearia,"Óleos, Gorduras e Banhas"
+198,Mercearia,Mercearia,Alimento Infantil
+184,Mercearia,Mercearia,Feijão
+179,Mercearia,"Óleos, Gorduras e Banhas",Óleo de Canola
+183,Mercearia,"Óleos, Gorduras e Banhas",Óleo de Soja
+181,Mercearia,"Óleos, Gorduras e Banhas",Óleo de Algodão
+707,Mercearia,"Óleos, Gorduras e Banhas",Gorduras
+180,Mercearia,"Óleos, Gorduras e Banhas",Óleo de Girassol
+182,Mercearia,"Óleos, Gorduras e Banhas",Óleo de Milho
+708,Mercearia,"Óleos, Gorduras e Banhas",Banhas
+251,Mercearia,Temperos e Condimentos,Molhos Variados
+250,Mercearia,Temperos e Condimentos,Molhos de Pimenta
+253,Mercearia,Temperos e Condimentos,Sal
+244,Mercearia,Temperos e Condimentos,Azeites
+254,Mercearia,Temperos e Condimentos,Vinagres e Aceto Balsâmico
+243,Mercearia,Temperos e Condimentos,Alho e Cebola
+248,Mercearia,Temperos e Condimentos,Caldos
+246,Mercearia,Temperos e Condimentos,"Catchup, Maionese e Mostarda"
+729,Mercearia,Temperos e Condimentos,Amaciante de Carnes
+245,Mercearia,Temperos e Condimentos,Ervas e Especiarias
+247,Mercearia,Temperos e Condimentos,Temperos Prontos
+579,Móveis,Móveis,Conjunto Mesa e Cadeira
+582,Móveis,Móveis,Banqueta
+580,Móveis,Móveis,Mesa
+36,Móveis,Móveis,Móveis
+578,Móveis,Móveis,Poltrona
+584,Móveis,Móveis,Cadeira para Escritório
+583,Móveis,Móveis,"Armários, Estantes e Prateleiras"
+581,Móveis,Móveis,Cadeira
+635,Oriental,Oriental,Utensílios
+60,Oriental,Oriental,Oriental
+636,Oriental,Oriental,Alimentos
+385,Pães e Bolos,Pães,Pães Integrais
+386,Pães e Bolos,Pães,Pães Especiais
+381,Pães e Bolos,Pães,Bisnaguinhas
+382,Pães e Bolos,Pães,Pães de Forma
+383,Pães e Bolos,Pães,Pães de Hambúrguer
+384,Pães e Bolos,Pães,Pães de Hot Dog
+388,Pães e Bolos,Pães e Bolos,Panetones e Chocotones
+379,Pães e Bolos,Pães e Bolos,Pães e Bolos
+380,Pães e Bolos,Pães e Bolos,Pães
+387,Pães e Bolos,Pães e Bolos,Bolos
+577,Papelaria e Escritório,Cartuchos,Cartucho de Tinta
+533,Papelaria e Escritório,Escolar,Régua
+531,Papelaria e Escritório,Escolar,"Lápis, Lapiseira e Grafite"
+526,Papelaria e Escritório,Escolar,Borracha
+528,Papelaria e Escritório,Escolar,Canetas
+527,Papelaria e Escritório,Escolar,Cadernos
+529,Papelaria e Escritório,Escolar,Cola
+535,Papelaria e Escritório,Escolar,Tintas
+534,Papelaria e Escritório,Escolar,Tesoura
+532,Papelaria e Escritório,Escolar,Marcadores
+530,Papelaria e Escritório,Escolar,Corretivo
+548,Papelaria e Escritório,Escritório,Comanda
+537,Papelaria e Escritório,Escritório,Almofadas de Carimbo
+544,Papelaria e Escritório,Escritório,Calculadora
+552,Papelaria e Escritório,Escritório,Extrator de Grampos
+545,Papelaria e Escritório,Escritório,Carimbo
+541,Papelaria e Escritório,Escritório,Blocos de Anotação
+550,Papelaria e Escritório,Escritório,Envelope
+546,Papelaria e Escritório,Escritório,Cartão de Ponto
+539,Papelaria e Escritório,Escritório,Arquivo Morto
+553,Papelaria e Escritório,Escritório,Giz
+559,Papelaria e Escritório,Escritório,Perfurador de Papel
+562,Papelaria e Escritório,Escritório,Suportes
+557,Papelaria e Escritório,Escritório,Livro Caixa e Livro Ponto
+561,Papelaria e Escritório,Escritório,Quadro Branco
+560,Papelaria e Escritório,Escritório,Prancheta
+558,Papelaria e Escritório,Escritório,Organizadores
+563,Papelaria e Escritório,Escritório,Tinta para Carimbo e Pincel Atômico
+551,Papelaria e Escritório,Escritório,Estilete
+554,Papelaria e Escritório,Escritório,Grampeadores
+547,Papelaria e Escritório,Escritório,Clips
+549,Papelaria e Escritório,Escritório,Elástico de Borracha
+538,Papelaria e Escritório,Escritório,Apagadores
+542,Papelaria e Escritório,Escritório,Bobinas
+555,Papelaria e Escritório,Escritório,Grampos para Grampeadores
+540,Papelaria e Escritório,Escritório,Blocos Auto-adesivos Post-it
+575,Papelaria e Escritório,Informática,Teclado
+574,Papelaria e Escritório,Informática,Mouse
+566,Papelaria e Escritório,Papéis e Pastas,Papel Sulfite
+569,Papelaria e Escritório,Papéis e Pastas,Pasta Polionda
+571,Papelaria e Escritório,Papéis e Pastas,Pasta Sanfonada
+570,Papelaria e Escritório,Papéis e Pastas,Pasta Registro
+568,Papelaria e Escritório,Papéis e Pastas,Pasta Catálogo
+572,Papelaria e Escritório,Papéis e Pastas,Pasta Suspensa
+567,Papelaria e Escritório,Papéis e Pastas,Pasta Aba
+525,Papelaria e Escritório,Papelaria e Escritório,Escolar
+576,Papelaria e Escritório,Papelaria e Escritório,Cartuchos
+58,Papelaria e Escritório,Papelaria e Escritório,Papelaria e Escritório
+573,Papelaria e Escritório,Papelaria e Escritório,Informática
+536,Papelaria e Escritório,Papelaria e Escritório,Escritório
+565,Papelaria e Escritório,Papelaria e Escritório,Papéis e Pastas
+418,Produtos de Limpeza,Limpeza de Banheiro,Desodorizadores e Detergente Sanitário
+416,Produtos de Limpeza,Limpeza de Banheiro,Água Sanitária
+412,Produtos de Limpeza,Limpeza de Cozinha,Limpador de Forno e Desengordurantes
+413,Produtos de Limpeza,Limpeza de Cozinha,Sabão em Pasta
+414,Produtos de Limpeza,Limpeza de Cozinha,Saponáceo
+410,Produtos de Limpeza,Limpeza de Cozinha,Esponja e Lã de Aço
+409,Produtos de Limpeza,Limpeza de Cozinha,Detergentes
+404,Produtos de Limpeza,Limpeza de Roupas,Lava Roupa Líquido
+402,Produtos de Limpeza,Limpeza de Roupas,Amaciante de Roupas
+407,Produtos de Limpeza,Limpeza de Roupas,Tira Manchas
+401,Produtos de Limpeza,Limpeza de Roupas,Alvejante
+406,Produtos de Limpeza,Limpeza de Roupas,Sabão em Barra
+405,Produtos de Limpeza,Limpeza de Roupas,Passa Roupa
+403,Produtos de Limpeza,Limpeza de Roupas,Lava Roupa em Pó
+390,Produtos de Limpeza,Limpeza Geral,Álcool
+396,Produtos de Limpeza,Limpeza Geral,Limpa Vidros
+392,Produtos de Limpeza,Limpeza Geral,Aromatizantes
+397,Produtos de Limpeza,Limpeza Geral,Limpadores de Uso Geral
+417,Produtos de Limpeza,Limpeza Geral,Desinfetante
+398,Produtos de Limpeza,Limpeza Geral,Lustra Móveis
+393,Produtos de Limpeza,Limpeza Geral,Ceras e Polidores
+395,Produtos de Limpeza,Limpeza Geral,Limpa Pisos
+399,Produtos de Limpeza,Limpeza Geral,Removedores
+391,Produtos de Limpeza,Limpeza Geral,Antimofo
+394,Produtos de Limpeza,Limpeza Geral,Inseticidas
+415,Produtos de Limpeza,Produtos de Limpeza,Limpeza de Banheiro
+730,Produtos de Limpeza,Produtos de Limpeza,Limpeza de Piscina
+408,Produtos de Limpeza,Produtos de Limpeza,Limpeza de Cozinha
+400,Produtos de Limpeza,Produtos de Limpeza,Limpeza de Roupas
+54,Produtos de Limpeza,Produtos de Limpeza,Produtos de Limpeza
+389,Produtos de Limpeza,Produtos de Limpeza,Limpeza Geral
+627,Produtos Diversos,Produtos Diversos,Pets
+39,Produtos Diversos,Produtos Diversos,Produtos Diversos
+629,Produtos Diversos,Produtos Diversos,Pilhas e Baterias
+637,Produtos Saudáveis,Produtos Saudáveis,Produtos Saudáveis
+639,Produtos Saudáveis,Produtos Saudáveis,Sem Glutén
+638,Produtos Saudáveis,Produtos Saudáveis,Zero Lactose
+640,Produtos Saudáveis,Produtos Saudáveis,Light e Diet
+613,Roupas e Uniformes,Acessórios,Meia
+605,Roupas e Uniformes,Acessórios,Capa Frigorifica
+611,Roupas e Uniformes,Acessórios,Luvas
+616,Roupas e Uniformes,Acessórios,Protetor de Barba
+610,Roupas e Uniformes,Acessórios,Mangote
+606,Roupas e Uniformes,Acessórios,Capuz de Segurança
+608,Roupas e Uniformes,Acessórios,Cinta para Lombar
+607,Roupas e Uniformes,Acessórios,Boné e Chapéu
+612,Roupas e Uniformes,Acessórios,Máscaras 
+609,Roupas e Uniformes,Acessórios,Jaleco
+614,Roupas e Uniformes,Acessórios,Óculos de Proteção
+617,Roupas e Uniformes,Acessórios,Protetor para Pés
+603,Roupas e Uniformes,Acessórios,Bandana
+604,Roupas e Uniformes,Acessórios,Bibico
+615,Roupas e Uniformes,Acessórios,Protetor Auricular
+596,Roupas e Uniformes,Calçados,Bota e Botina
+598,Roupas e Uniformes,Calçados,Chinelo
+599,Roupas e Uniformes,Calçados,Sapatilha
+601,Roupas e Uniformes,Calçados,Tênis
+600,Roupas e Uniformes,Calçados,Sapato
+587,Roupas e Uniformes,Roupas,Avental
+591,Roupas e Uniformes,Roupas,Camisa e Camiseta
+594,Roupas e Uniformes,Roupas,Macacão
+592,Roupas e Uniformes,Roupas,Colete
+593,Roupas e Uniformes,Roupas,Conjunto Vestido e Avental
+588,Roupas e Uniformes,Roupas,Bata
+589,Roupas e Uniformes,Roupas,Calça
+585,Roupas e Uniformes,Roupas e Uniformes,Roupas e Uniformes
+586,Roupas e Uniformes,Roupas e Uniformes,Roupas
+595,Roupas e Uniformes,Roupas e Uniformes,Calçados
+602,Roupas e Uniformes,Roupas e Uniformes,Acessórios
+62,Testes,Testes,Testes
+626,Velas e Acendedores,Velas,Vela para Aniversário
+624,Velas e Acendedores,Velas,Vela Votiva
+625,Velas e Acendedores,Velas,Vela branca
+623,Velas e Acendedores,Velas e Acendedores,Velas
+622,Velas e Acendedores,Velas e Acendedores,Isqueiro
+619,Velas e Acendedores,Velas e Acendedores,Acendedor para Fogão
+618,Velas e Acendedores,Velas e Acendedores,Álcool para Acendimento
+621,Velas e Acendedores,Velas e Acendedores,Fósforo
+14,Velas e Acendedores,Velas e Acendedores,Velas e Acendedores
+620,Velas e Acendedores,Velas e Acendedores,Carvão
